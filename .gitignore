@@ -1,0 +1,6 @@
+# real credentials - never commit
+sharecred.ini
+drive.txt
+reconnect.log
+__pycache__/
+*.pyc
